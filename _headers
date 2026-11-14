@@ -1,0 +1,6 @@
+/v1/*
+  Cache-Control: public, max-age=600, must-revalidate
+  Access-Control-Allow-Origin: *
+/v1/index.json
+  Cache-Control: public, max-age=120, must-revalidate
+  Access-Control-Allow-Origin: *
