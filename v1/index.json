@@ -1,0 +1,1323 @@
+{
+ "schema": 1,
+ "generatedAt": "2026-11-21T02:50:58.139Z",
+ "sourceUpdatedAt": "2026-11-20T20:06:21+0000",
+ "minAppVersion": "1.0.0",
+ "config": {
+  "path": "config.json",
+  "hash": "027878d257a5",
+  "bytes": 830
+ },
+ "games": [
+  {
+   "id": "optcg",
+   "name": "One Piece Card Game",
+   "enabled": true,
+   "pricesDate": "2026-11-20",
+   "cardCount": 7297,
+   "files": {
+    "catalog": {
+     "path": "optcg/catalog.json",
+     "hash": "948da7cf9bef",
+     "bytes": 1119635
+    },
+    "prices": {
+     "path": "optcg/prices.json",
+     "hash": "c221baf96061",
+     "bytes": 188614
+    },
+    "history": {
+     "3188": {
+      "path": "optcg/history/3188.json",
+      "hash": "97f929c93bdd",
+      "bytes": 32432
+     },
+     "3189": {
+      "path": "optcg/history/3189.json",
+      "hash": "c62101722a1c",
+      "bytes": 3866
+     },
+     "3190": {
+      "path": "optcg/history/3190.json",
+      "hash": "19f492786312",
+      "bytes": 4023
+     },
+     "3191": {
+      "path": "optcg/history/3191.json",
+      "hash": "f00a97cca7c0",
+      "bytes": 3894
+     },
+     "3192": {
+      "path": "optcg/history/3192.json",
+      "hash": "d59c375f10c4",
+      "bytes": 3802
+     },
+     "17658": {
+      "path": "optcg/history/17658.json",
+      "hash": "c40b2b89aef8",
+      "bytes": 3959
+     },
+     "17659": {
+      "path": "optcg/history/17659.json",
+      "hash": "08a97d46525f",
+      "bytes": 4174
+     },
+     "17660": {
+      "path": "optcg/history/17660.json",
+      "hash": "c9e2ddd85ab9",
+      "bytes": 4002
+     },
+     "17661": {
+      "path": "optcg/history/17661.json",
+      "hash": "de876dcee824",
+      "bytes": 3926
+     },
+     "17675": {
+      "path": "optcg/history/17675.json",
+      "hash": "f75f000835cc",
+      "bytes": 240239
+     },
+     "17687": {
+      "path": "optcg/history/17687.json",
+      "hash": "81057635bc14",
+      "bytes": 3796
+     },
+     "17698": {
+      "path": "optcg/history/17698.json",
+      "hash": "ab3641d99ac3",
+      "bytes": 31837
+     },
+     "17699": {
+      "path": "optcg/history/17699.json",
+      "hash": "443fe2d2e841",
+      "bytes": 3873
+     },
+     "22890": {
+      "path": "optcg/history/22890.json",
+      "hash": "295e3c2fea12",
+      "bytes": 31573
+     },
+     "22930": {
+      "path": "optcg/history/22930.json",
+      "hash": "0c73f524b8e1",
+      "bytes": 3863
+     },
+     "22934": {
+      "path": "optcg/history/22934.json",
+      "hash": "f973e8bc8f52",
+      "bytes": 15727
+     },
+     "22956": {
+      "path": "optcg/history/22956.json",
+      "hash": "90f688f721f2",
+      "bytes": 3447
+     },
+     "22957": {
+      "path": "optcg/history/22957.json",
+      "hash": "0026ce30c6da",
+      "bytes": 3466
+     },
+     "23024": {
+      "path": "optcg/history/23024.json",
+      "hash": "31717db4ccb5",
+      "bytes": 31835
+     },
+     "23213": {
+      "path": "optcg/history/23213.json",
+      "hash": "b7c99742de81",
+      "bytes": 31842
+     },
+     "23232": {
+      "path": "optcg/history/23232.json",
+      "hash": "adfa61a6ee48",
+      "bytes": 15779
+     },
+     "23243": {
+      "path": "optcg/history/23243.json",
+      "hash": "e9124e66a49e",
+      "bytes": 3919
+     },
+     "23250": {
+      "path": "optcg/history/23250.json",
+      "hash": "46183fb58321",
+      "bytes": 1500
+     },
+     "23272": {
+      "path": "optcg/history/23272.json",
+      "hash": "468602b17c52",
+      "bytes": 31145
+     },
+     "23297": {
+      "path": "optcg/history/23297.json",
+      "hash": "cdc0872686ad",
+      "bytes": 15417
+     },
+     "23333": {
+      "path": "optcg/history/23333.json",
+      "hash": "f8f57729829f",
+      "bytes": 17049
+     },
+     "23348": {
+      "path": "optcg/history/23348.json",
+      "hash": "228caead1d3a",
+      "bytes": 3880
+     },
+     "23349": {
+      "path": "optcg/history/23349.json",
+      "hash": "42e23f131710",
+      "bytes": 7584
+     },
+     "23368": {
+      "path": "optcg/history/23368.json",
+      "hash": "dd7aee78f835",
+      "bytes": 15816
+     },
+     "23387": {
+      "path": "optcg/history/23387.json",
+      "hash": "84610cd0c5df",
+      "bytes": 30975
+     },
+     "23424": {
+      "path": "optcg/history/23424.json",
+      "hash": "898aab6c04c8",
+      "bytes": 15296
+     },
+     "23462": {
+      "path": "optcg/history/23462.json",
+      "hash": "54b4ceb22df4",
+      "bytes": 31068
+     },
+     "23489": {
+      "path": "optcg/history/23489.json",
+      "hash": "fe654d9cf7a2",
+      "bytes": 3844
+     },
+     "23490": {
+      "path": "optcg/history/23490.json",
+      "hash": "748908745ef2",
+      "bytes": 3098
+     },
+     "23491": {
+      "path": "optcg/history/23491.json",
+      "hash": "8f7fa9a71049",
+      "bytes": 3449
+     },
+     "23492": {
+      "path": "optcg/history/23492.json",
+      "hash": "939b99661757",
+      "bytes": 2488
+     },
+     "23493": {
+      "path": "optcg/history/23493.json",
+      "hash": "efb758fbea1d",
+      "bytes": 3418
+     },
+     "23494": {
+      "path": "optcg/history/23494.json",
+      "hash": "700aeed61132",
+      "bytes": 3244
+     },
+     "23495": {
+      "path": "optcg/history/23495.json",
+      "hash": "b52b52470b97",
+      "bytes": 2676
+     },
+     "23496": {
+      "path": "optcg/history/23496.json",
+      "hash": "c52b23f2199f",
+      "bytes": 55115
+     },
+     "23512": {
+      "path": "optcg/history/23512.json",
+      "hash": "2d915e1483c3",
+      "bytes": 15446
+     },
+     "23589": {
+      "path": "optcg/history/23589.json",
+      "hash": "ff78f2d4d67c",
+      "bytes": 33195
+     },
+     "23590": {
+      "path": "optcg/history/23590.json",
+      "hash": "846ef9b19266",
+      "bytes": 15530
+     },
+     "23737": {
+      "path": "optcg/history/23737.json",
+      "hash": "9184cb447d36",
+      "bytes": 15222
+     },
+     "23766": {
+      "path": "optcg/history/23766.json",
+      "hash": "42db880132c7",
+      "bytes": 31067
+     },
+     "23834": {
+      "path": "optcg/history/23834.json",
+      "hash": "e32ef27b9407",
+      "bytes": 22402
+     },
+     "23890": {
+      "path": "optcg/history/23890.json",
+      "hash": "dd738f1f3985",
+      "bytes": 8407
+     },
+     "23907": {
+      "path": "optcg/history/23907.json",
+      "hash": "8a054be073ed",
+      "bytes": 5443
+     },
+     "23991": {
+      "path": "optcg/history/23991.json",
+      "hash": "1cd640ae3213",
+      "bytes": 7034
+     },
+     "24068": {
+      "path": "optcg/history/24068.json",
+      "hash": "b2036adfea87",
+      "bytes": 15554
+     },
+     "24241": {
+      "path": "optcg/history/24241.json",
+      "hash": "ce2b2b0304c7",
+      "bytes": 32313
+     },
+     "24242": {
+      "path": "optcg/history/24242.json",
+      "hash": "c8c680366bcf",
+      "bytes": 15403
+     },
+     "24282": {
+      "path": "optcg/history/24282.json",
+      "hash": "0a5642bfb3fd",
+      "bytes": 3508
+     },
+     "24283": {
+      "path": "optcg/history/24283.json",
+      "hash": "e2c974861b52",
+      "bytes": 3406
+     },
+     "24284": {
+      "path": "optcg/history/24284.json",
+      "hash": "90fb26d281c2",
+      "bytes": 3476
+     },
+     "24285": {
+      "path": "optcg/history/24285.json",
+      "hash": "84f5a9863495",
+      "bytes": 3482
+     },
+     "24286": {
+      "path": "optcg/history/24286.json",
+      "hash": "9aa0321de3b2",
+      "bytes": 3440
+     },
+     "24287": {
+      "path": "optcg/history/24287.json",
+      "hash": "b2b6a8d0a6a2",
+      "bytes": 3475
+     },
+     "24302": {
+      "path": "optcg/history/24302.json",
+      "hash": "0d9a17daddee",
+      "bytes": 32227
+     },
+     "24303": {
+      "path": "optcg/history/24303.json",
+      "hash": "5a73a0f4d4c5",
+      "bytes": 37189
+     },
+     "24304": {
+      "path": "optcg/history/24304.json",
+      "hash": "d159688bc715",
+      "bytes": 6638
+     },
+     "24305": {
+      "path": "optcg/history/24305.json",
+      "hash": "01bf0ef1b19e",
+      "bytes": 64881
+     },
+     "24306": {
+      "path": "optcg/history/24306.json",
+      "hash": "7a0b114e9203",
+      "bytes": 10590
+     },
+     "24406": {
+      "path": "optcg/history/24406.json",
+      "hash": "3b879033e00f",
+      "bytes": 15452
+     },
+     "24498": {
+      "path": "optcg/history/24498.json",
+      "hash": "b04a4c68837d",
+      "bytes": 16041
+     },
+     "24537": {
+      "path": "optcg/history/24537.json",
+      "hash": "b958ae28d961",
+      "bytes": 42422
+     },
+     "24545": {
+      "path": "optcg/history/24545.json",
+      "hash": "a94b679d8cba",
+      "bytes": 20137
+     },
+     "24575": {
+      "path": "optcg/history/24575.json",
+      "hash": "444f22c91512",
+      "bytes": 6724
+     },
+     "24579": {
+      "path": "optcg/history/24579.json",
+      "hash": "c14278d01303",
+      "bytes": 18301
+     },
+     "24637": {
+      "path": "optcg/history/24637.json",
+      "hash": "4c58fb4ed6d8",
+      "bytes": 41946
+     },
+     "24638": {
+      "path": "optcg/history/24638.json",
+      "hash": "c5b73d5c9925",
+      "bytes": 18460
+     },
+     "24664": {
+      "path": "optcg/history/24664.json",
+      "hash": "4dcbccba5579",
+      "bytes": 32214
+     },
+     "24677": {
+      "path": "optcg/history/24677.json",
+      "hash": "714d14e8d3e9",
+      "bytes": 15457
+     },
+     "24678": {
+      "path": "optcg/history/24678.json",
+      "hash": "8996b7e4671f",
+      "bytes": 7189
+     },
+     "24708": {
+      "path": "optcg/history/24708.json",
+      "hash": "da2866b51dc1",
+      "bytes": 6328
+     },
+     "24736": {
+      "path": "optcg/history/24736.json",
+      "hash": "d04a953ed2c9",
+      "bytes": 35636
+     },
+     "24749": {
+      "path": "optcg/history/24749.json",
+      "hash": "14a3d4063aab",
+      "bytes": 2480
+     },
+     "24750": {
+      "path": "optcg/history/24750.json",
+      "hash": "a60f868484e8",
+      "bytes": 2306
+     },
+     "24751": {
+      "path": "optcg/history/24751.json",
+      "hash": "a2f18b2db92a",
+      "bytes": 2284
+     },
+     "24752": {
+      "path": "optcg/history/24752.json",
+      "hash": "49577006f2e2",
+      "bytes": 2487
+     },
+     "24753": {
+      "path": "optcg/history/24753.json",
+      "hash": "1f6e512f6433",
+      "bytes": 2299
+     },
+     "24754": {
+      "path": "optcg/history/24754.json",
+      "hash": "a1ab3b7d337e",
+      "bytes": 2652
+     },
+     "24775": {
+      "path": "optcg/history/24775.json",
+      "hash": "e84851b1bd36",
+      "bytes": 15446
+     },
+     "24820": {
+      "path": "optcg/history/24820.json",
+      "hash": "462185d7d932",
+      "bytes": 21020
+     },
+     "24833": {
+      "path": "optcg/history/24833.json",
+      "hash": "1ca4babd89ed",
+      "bytes": 32427
+     }
+    }
+   }
+  },
+  {
+   "id": "gundam",
+   "name": "Gundam Card Game",
+   "enabled": false,
+   "pricesDate": "2026-11-20",
+   "cardCount": 2156,
+   "files": {
+    "catalog": {
+     "path": "gundam/catalog.json",
+     "hash": "a7891789b9f6",
+     "bytes": 331298
+    },
+    "prices": {
+     "path": "gundam/prices.json",
+     "hash": "c8b3388dde5b",
+     "bytes": 57857
+    },
+    "history": {
+     "24193": {
+      "path": "gundam/history/24193.json",
+      "hash": "771ce171b5d2",
+      "bytes": 16977
+     },
+     "24221": {
+      "path": "gundam/history/24221.json",
+      "hash": "0d9598b25fd3",
+      "bytes": 37640
+     },
+     "24222": {
+      "path": "gundam/history/24222.json",
+      "hash": "015033845b14",
+      "bytes": 7667
+     },
+     "24223": {
+      "path": "gundam/history/24223.json",
+      "hash": "0efdd26f8ecb",
+      "bytes": 7494
+     },
+     "24224": {
+      "path": "gundam/history/24224.json",
+      "hash": "6335b197267e",
+      "bytes": 7523
+     },
+     "24225": {
+      "path": "gundam/history/24225.json",
+      "hash": "15acc1d6b95c",
+      "bytes": 7606
+     },
+     "24340": {
+      "path": "gundam/history/24340.json",
+      "hash": "2aff671df9fc",
+      "bytes": 49323
+     },
+     "24372": {
+      "path": "gundam/history/24372.json",
+      "hash": "7e37f4a81d66",
+      "bytes": 14694
+     },
+     "24407": {
+      "path": "gundam/history/24407.json",
+      "hash": "452a1d95dc1f",
+      "bytes": 7196
+     },
+     "24408": {
+      "path": "gundam/history/24408.json",
+      "hash": "86c79dea31d7",
+      "bytes": 38153
+     },
+     "24409": {
+      "path": "gundam/history/24409.json",
+      "hash": "8ce2204265a3",
+      "bytes": 7120
+     },
+     "24410": {
+      "path": "gundam/history/24410.json",
+      "hash": "d5393321cbc9",
+      "bytes": 7001
+     },
+     "24411": {
+      "path": "gundam/history/24411.json",
+      "hash": "35e205dae1f0",
+      "bytes": 7105
+     },
+     "24522": {
+      "path": "gundam/history/24522.json",
+      "hash": "391922122119",
+      "bytes": 41445
+     },
+     "24625": {
+      "path": "gundam/history/24625.json",
+      "hash": "25e954193fdb",
+      "bytes": 8594
+     },
+     "24633": {
+      "path": "gundam/history/24633.json",
+      "hash": "5589c7f62a43",
+      "bytes": 39761
+     },
+     "24692": {
+      "path": "gundam/history/24692.json",
+      "hash": "4c9319b3e547",
+      "bytes": 7481
+     },
+     "24693": {
+      "path": "gundam/history/24693.json",
+      "hash": "39c4fce888ab",
+      "bytes": 21914
+     },
+     "24699": {
+      "path": "gundam/history/24699.json",
+      "hash": "280b894e5d16",
+      "bytes": 41123
+     },
+     "24767": {
+      "path": "gundam/history/24767.json",
+      "hash": "e3943cc48404",
+      "bytes": 9902
+     },
+     "24800": {
+      "path": "gundam/history/24800.json",
+      "hash": "3aaba4f4bc90",
+      "bytes": 7226
+     },
+     "24801": {
+      "path": "gundam/history/24801.json",
+      "hash": "ba9adf43e38c",
+      "bytes": 7056
+     },
+     "24802": {
+      "path": "gundam/history/24802.json",
+      "hash": "ecadea4436f6",
+      "bytes": 7190
+     },
+     "24803": {
+      "path": "gundam/history/24803.json",
+      "hash": "554f6d2bcdc3",
+      "bytes": 7057
+     },
+     "24804": {
+      "path": "gundam/history/24804.json",
+      "hash": "3376cd0aecf3",
+      "bytes": 38160
+     }
+    }
+   }
+  },
+  {
+   "id": "riftbound",
+   "name": "Riftbound",
+   "enabled": false,
+   "pricesDate": "2026-11-20",
+   "cardCount": 1605,
+   "files": {
+    "catalog": {
+     "path": "riftbound/catalog.json",
+     "hash": "20fe98f09ce7",
+     "bytes": 248032
+    },
+    "prices": {
+     "path": "riftbound/prices.json",
+     "hash": "f013db44a347",
+     "bytes": 51535
+    },
+    "history": {
+     "24343": {
+      "path": "riftbound/history/24343.json",
+      "hash": "0c6cc479fbac",
+      "bytes": 3170
+     },
+     "24344": {
+      "path": "riftbound/history/24344.json",
+      "hash": "c6a0737d5a59",
+      "bytes": 102302
+     },
+     "24439": {
+      "path": "riftbound/history/24439.json",
+      "hash": "e40026ac58f5",
+      "bytes": 6065
+     },
+     "24502": {
+      "path": "riftbound/history/24502.json",
+      "hash": "0a70498cb109",
+      "bytes": 1872
+     },
+     "24519": {
+      "path": "riftbound/history/24519.json",
+      "hash": "6cd2b05eeef0",
+      "bytes": 80316
+     },
+     "24528": {
+      "path": "riftbound/history/24528.json",
+      "hash": "11dbb80b9489",
+      "bytes": 43311
+     },
+     "24552": {
+      "path": "riftbound/history/24552.json",
+      "hash": "9f63e2653849",
+      "bytes": 1592
+     },
+     "24560": {
+      "path": "riftbound/history/24560.json",
+      "hash": "00a1e761bb2b",
+      "bytes": 79064
+     },
+     "24698": {
+      "path": "riftbound/history/24698.json",
+      "hash": "a86e7bbb8821",
+      "bytes": 62828
+     },
+     "24797": {
+      "path": "riftbound/history/24797.json",
+      "hash": "bfe600337015",
+      "bytes": 1253
+     },
+     "24819": {
+      "path": "riftbound/history/24819.json",
+      "hash": "b02838c40aa9",
+      "bytes": 59472
+     }
+    }
+   }
+  },
+  {
+   "id": "lorcana",
+   "name": "Disney Lorcana",
+   "enabled": false,
+   "pricesDate": "2026-11-20",
+   "cardCount": 3625,
+   "files": {
+    "catalog": {
+     "path": "lorcana/catalog.json",
+     "hash": "d7d6c06439f9",
+     "bytes": 593158
+    },
+    "prices": {
+     "path": "lorcana/prices.json",
+     "hash": "d7ae8f32f3b9",
+     "bytes": 141598
+    },
+    "history": {
+     "17690": {
+      "path": "lorcana/history/17690.json",
+      "hash": "c4309f3b3c98",
+      "bytes": 4683
+     },
+     "22937": {
+      "path": "lorcana/history/22937.json",
+      "hash": "aa8e92068e89",
+      "bytes": 84772
+     },
+     "23234": {
+      "path": "lorcana/history/23234.json",
+      "hash": "c659fc28eef1",
+      "bytes": 44383
+     },
+     "23303": {
+      "path": "lorcana/history/23303.json",
+      "hash": "678371d985a6",
+      "bytes": 84663
+     },
+     "23305": {
+      "path": "lorcana/history/23305.json",
+      "hash": "2fb2299e1a03",
+      "bytes": 1811
+     },
+     "23367": {
+      "path": "lorcana/history/23367.json",
+      "hash": "ca9da968f8fe",
+      "bytes": 87191
+     },
+     "23474": {
+      "path": "lorcana/history/23474.json",
+      "hash": "1375da465d88",
+      "bytes": 85139
+     },
+     "23528": {
+      "path": "lorcana/history/23528.json",
+      "hash": "ad2614ad692a",
+      "bytes": 7526
+     },
+     "23536": {
+      "path": "lorcana/history/23536.json",
+      "hash": "e6e05076204f",
+      "bytes": 85474
+     },
+     "23746": {
+      "path": "lorcana/history/23746.json",
+      "hash": "f257810cba11",
+      "bytes": 85223
+     },
+     "24011": {
+      "path": "lorcana/history/24011.json",
+      "hash": "2480d69bae5e",
+      "bytes": 85315
+     },
+     "24257": {
+      "path": "lorcana/history/24257.json",
+      "hash": "cc898a200ca7",
+      "bytes": 8128
+     },
+     "24258": {
+      "path": "lorcana/history/24258.json",
+      "hash": "71d0d4632f7c",
+      "bytes": 85689
+     },
+     "24348": {
+      "path": "lorcana/history/24348.json",
+      "hash": "8152f60328f0",
+      "bytes": 90742
+     },
+     "24414": {
+      "path": "lorcana/history/24414.json",
+      "hash": "7779095d30bd",
+      "bytes": 90171
+     },
+     "24500": {
+      "path": "lorcana/history/24500.json",
+      "hash": "3cadb514e742",
+      "bytes": 90220
+     },
+     "24617": {
+      "path": "lorcana/history/24617.json",
+      "hash": "0353de8865fb",
+      "bytes": 89640
+     },
+     "24666": {
+      "path": "lorcana/history/24666.json",
+      "hash": "536335c94c2d",
+      "bytes": 90764
+     },
+     "24734": {
+      "path": "lorcana/history/24734.json",
+      "hash": "89af4ca5895f",
+      "bytes": 8819
+     },
+     "24740": {
+      "path": "lorcana/history/24740.json",
+      "hash": "c2597ce078bf",
+      "bytes": 89540
+     }
+    }
+   }
+  },
+  {
+   "id": "digimon",
+   "name": "Digimon Card Game",
+   "enabled": false,
+   "pricesDate": "2026-11-20",
+   "cardCount": 9573,
+   "files": {
+    "catalog": {
+     "path": "digimon/catalog.json",
+     "hash": "69753f3cd6f9",
+     "bytes": 1516782
+    },
+    "prices": {
+     "path": "digimon/prices.json",
+     "hash": "2c4398009fb5",
+     "bytes": 249146
+    },
+    "history": {
+     "2733": {
+      "path": "digimon/history/2733.json",
+      "hash": "b034a0d8c5c2",
+      "bytes": 17538
+     },
+     "2734": {
+      "path": "digimon/history/2734.json",
+      "hash": "882594341d12",
+      "bytes": 1923
+     },
+     "2735": {
+      "path": "digimon/history/2735.json",
+      "hash": "930c40b99c77",
+      "bytes": 1483
+     },
+     "2736": {
+      "path": "digimon/history/2736.json",
+      "hash": "40135ff93b99",
+      "bytes": 1633
+     },
+     "2737": {
+      "path": "digimon/history/2737.json",
+      "hash": "f6a745c504b6",
+      "bytes": 22445
+     },
+     "2763": {
+      "path": "digimon/history/2763.json",
+      "hash": "734fbd172507",
+      "bytes": 7639
+     },
+     "2793": {
+      "path": "digimon/history/2793.json",
+      "hash": "a211994f5b53",
+      "bytes": 1305
+     },
+     "2794": {
+      "path": "digimon/history/2794.json",
+      "hash": "4d9d247c6559",
+      "bytes": 991
+     },
+     "2795": {
+      "path": "digimon/history/2795.json",
+      "hash": "5c4c9d95c9fe",
+      "bytes": 1035
+     },
+     "2832": {
+      "path": "digimon/history/2832.json",
+      "hash": "8f08e319e749",
+      "bytes": 2564
+     },
+     "2838": {
+      "path": "digimon/history/2838.json",
+      "hash": "5ce18c590f49",
+      "bytes": 8332
+     },
+     "2880": {
+      "path": "digimon/history/2880.json",
+      "hash": "486d73023958",
+      "bytes": 8121
+     },
+     "2882": {
+      "path": "digimon/history/2882.json",
+      "hash": "56db39f41f99",
+      "bytes": 1317
+     },
+     "2883": {
+      "path": "digimon/history/2883.json",
+      "hash": "51c781ee0355",
+      "bytes": 1123
+     },
+     "2886": {
+      "path": "digimon/history/2886.json",
+      "hash": "e0d00e3091d4",
+      "bytes": 2590
+     },
+     "2924": {
+      "path": "digimon/history/2924.json",
+      "hash": "74cb5731ce40",
+      "bytes": 5799
+     },
+     "2945": {
+      "path": "digimon/history/2945.json",
+      "hash": "28709e5c8343",
+      "bytes": 9035
+     },
+     "2955": {
+      "path": "digimon/history/2955.json",
+      "hash": "f83823000cb7",
+      "bytes": 2592
+     },
+     "2987": {
+      "path": "digimon/history/2987.json",
+      "hash": "2c96bf0dc848",
+      "bytes": 2506
+     },
+     "3024": {
+      "path": "digimon/history/3024.json",
+      "hash": "0f86f89527d6",
+      "bytes": 2617
+     },
+     "3035": {
+      "path": "digimon/history/3035.json",
+      "hash": "d9c150d76120",
+      "bytes": 8907
+     },
+     "3045": {
+      "path": "digimon/history/3045.json",
+      "hash": "301f58c1d4aa",
+      "bytes": 1358
+     },
+     "3046": {
+      "path": "digimon/history/3046.json",
+      "hash": "323855f93b89",
+      "bytes": 1324
+     },
+     "3069": {
+      "path": "digimon/history/3069.json",
+      "hash": "66eacd463c9b",
+      "bytes": 2582
+     },
+     "3072": {
+      "path": "digimon/history/3072.json",
+      "hash": "8b1043de9b30",
+      "bytes": 5812
+     },
+     "3103": {
+      "path": "digimon/history/3103.json",
+      "hash": "110559322fc3",
+      "bytes": 7503
+     },
+     "3112": {
+      "path": "digimon/history/3112.json",
+      "hash": "94b641f7ec25",
+      "bytes": 7968
+     },
+     "3128": {
+      "path": "digimon/history/3128.json",
+      "hash": "acd541eebbe8",
+      "bytes": 2700
+     },
+     "3133": {
+      "path": "digimon/history/3133.json",
+      "hash": "af0d5da3d170",
+      "bytes": 1179
+     },
+     "3134": {
+      "path": "digimon/history/3134.json",
+      "hash": "7cf3fcb31f4c",
+      "bytes": 1084
+     },
+     "3163": {
+      "path": "digimon/history/3163.json",
+      "hash": "12ef1ea4c4d1",
+      "bytes": 4931
+     },
+     "3182": {
+      "path": "digimon/history/3182.json",
+      "hash": "1e6a09b25f62",
+      "bytes": 2602
+     },
+     "17691": {
+      "path": "digimon/history/17691.json",
+      "hash": "dcee209bffae",
+      "bytes": 11497
+     },
+     "17702": {
+      "path": "digimon/history/17702.json",
+      "hash": "d77f32b0cd7f",
+      "bytes": 2615
+     },
+     "17703": {
+      "path": "digimon/history/17703.json",
+      "hash": "ecbfa5c04dfd",
+      "bytes": 1611
+     },
+     "23012": {
+      "path": "digimon/history/23012.json",
+      "hash": "e73e7079a786",
+      "bytes": 8572
+     },
+     "23013": {
+      "path": "digimon/history/23013.json",
+      "hash": "48aae9af2861",
+      "bytes": 2584
+     },
+     "23017": {
+      "path": "digimon/history/23017.json",
+      "hash": "3d5b3e51bb31",
+      "bytes": 6460
+     },
+     "23074": {
+      "path": "digimon/history/23074.json",
+      "hash": "234c08e03b40",
+      "bytes": 869
+     },
+     "23147": {
+      "path": "digimon/history/23147.json",
+      "hash": "685860e9e40d",
+      "bytes": 5258
+     },
+     "23148": {
+      "path": "digimon/history/23148.json",
+      "hash": "7ac93ac59db3",
+      "bytes": 7612
+     },
+     "23149": {
+      "path": "digimon/history/23149.json",
+      "hash": "1e27727684fd",
+      "bytes": 2509
+     },
+     "23178": {
+      "path": "digimon/history/23178.json",
+      "hash": "cb4b3163dda4",
+      "bytes": 7418
+     },
+     "23179": {
+      "path": "digimon/history/23179.json",
+      "hash": "fd1abcc43755",
+      "bytes": 2257
+     },
+     "23188": {
+      "path": "digimon/history/23188.json",
+      "hash": "541e2b22fd49",
+      "bytes": 1011
+     },
+     "23189": {
+      "path": "digimon/history/23189.json",
+      "hash": "d9f7e35ec644",
+      "bytes": 966
+     },
+     "23247": {
+      "path": "digimon/history/23247.json",
+      "hash": "472eb2dab391",
+      "bytes": 5413
+     },
+     "23254": {
+      "path": "digimon/history/23254.json",
+      "hash": "ccfeae874e54",
+      "bytes": 8012
+     },
+     "23259": {
+      "path": "digimon/history/23259.json",
+      "hash": "e19dd3f13614",
+      "bytes": 1801
+     },
+     "23324": {
+      "path": "digimon/history/23324.json",
+      "hash": "e663019dfa01",
+      "bytes": 2684
+     },
+     "23327": {
+      "path": "digimon/history/23327.json",
+      "hash": "fa7d9053b2a8",
+      "bytes": 733
+     },
+     "23328": {
+      "path": "digimon/history/23328.json",
+      "hash": "a85f917e545c",
+      "bytes": 721
+     },
+     "23395": {
+      "path": "digimon/history/23395.json",
+      "hash": "96ed607011fd",
+      "bytes": 6925
+     },
+     "23413": {
+      "path": "digimon/history/23413.json",
+      "hash": "e38b4c32bf9f",
+      "bytes": 2235
+     },
+     "23414": {
+      "path": "digimon/history/23414.json",
+      "hash": "e9fba1ee80a7",
+      "bytes": 5145
+     },
+     "23450": {
+      "path": "digimon/history/23450.json",
+      "hash": "2debfb4a33a1",
+      "bytes": 692
+     },
+     "23557": {
+      "path": "digimon/history/23557.json",
+      "hash": "42440ebec25d",
+      "bytes": 7448
+     },
+     "23559": {
+      "path": "digimon/history/23559.json",
+      "hash": "c7418769763e",
+      "bytes": 2321
+     },
+     "23585": {
+      "path": "digimon/history/23585.json",
+      "hash": "a61c5ef9ec3f",
+      "bytes": 856
+     },
+     "23586": {
+      "path": "digimon/history/23586.json",
+      "hash": "220be47c991e",
+      "bytes": 1060
+     },
+     "23587": {
+      "path": "digimon/history/23587.json",
+      "hash": "a3d6beccf482",
+      "bytes": 7092
+     },
+     "23767": {
+      "path": "digimon/history/23767.json",
+      "hash": "acaee36bb119",
+      "bytes": 10174
+     },
+     "23775": {
+      "path": "digimon/history/23775.json",
+      "hash": "6c261039246b",
+      "bytes": 7243
+     },
+     "23787": {
+      "path": "digimon/history/23787.json",
+      "hash": "22298805ef87",
+      "bytes": 3152
+     },
+     "23850": {
+      "path": "digimon/history/23850.json",
+      "hash": "653abd82d4f8",
+      "bytes": 1780
+     },
+     "23992": {
+      "path": "digimon/history/23992.json",
+      "hash": "d67c00dd1069",
+      "bytes": 1181
+     },
+     "23993": {
+      "path": "digimon/history/23993.json",
+      "hash": "660bd8329deb",
+      "bytes": 1320
+     },
+     "24049": {
+      "path": "digimon/history/24049.json",
+      "hash": "dec22e7545c3",
+      "bytes": 8054
+     },
+     "24061": {
+      "path": "digimon/history/24061.json",
+      "hash": "e106b9a12b67",
+      "bytes": 2338
+     },
+     "24077": {
+      "path": "digimon/history/24077.json",
+      "hash": "a9a15138dec3",
+      "bytes": 6900
+     },
+     "24078": {
+      "path": "digimon/history/24078.json",
+      "hash": "d491dcecea4f",
+      "bytes": 7202
+     },
+     "24079": {
+      "path": "digimon/history/24079.json",
+      "hash": "c7a75252c128",
+      "bytes": 2252
+     },
+     "24089": {
+      "path": "digimon/history/24089.json",
+      "hash": "2651e9821b76",
+      "bytes": 6520
+     },
+     "24178": {
+      "path": "digimon/history/24178.json",
+      "hash": "314c798837f7",
+      "bytes": 11196
+     },
+     "24179": {
+      "path": "digimon/history/24179.json",
+      "hash": "33280ad31f68",
+      "bytes": 3595
+     },
+     "24182": {
+      "path": "digimon/history/24182.json",
+      "hash": "bb9dbaa12d13",
+      "bytes": 8539
+     },
+     "24271": {
+      "path": "digimon/history/24271.json",
+      "hash": "0efc33499e8f",
+      "bytes": 598
+     },
+     "24292": {
+      "path": "digimon/history/24292.json",
+      "hash": "05b591ddc205",
+      "bytes": 595
+     },
+     "24390": {
+      "path": "digimon/history/24390.json",
+      "hash": "bf5cf3d6088b",
+      "bytes": 2318
+     },
+     "24426": {
+      "path": "digimon/history/24426.json",
+      "hash": "4508b3da909c",
+      "bytes": 1636
+     },
+     "24428": {
+      "path": "digimon/history/24428.json",
+      "hash": "143116af9c01",
+      "bytes": 1580
+     },
+     "24430": {
+      "path": "digimon/history/24430.json",
+      "hash": "04a9a6d33746",
+      "bytes": 6103
+     },
+     "24456": {
+      "path": "digimon/history/24456.json",
+      "hash": "b0164c98ee0d",
+      "bytes": 1270
+     },
+     "24488": {
+      "path": "digimon/history/24488.json",
+      "hash": "d5341a613dd7",
+      "bytes": 2352
+     },
+     "24490": {
+      "path": "digimon/history/24490.json",
+      "hash": "f7309ed7e57c",
+      "bytes": 7434
+     },
+     "24531": {
+      "path": "digimon/history/24531.json",
+      "hash": "6cde84cd3b1a",
+      "bytes": 6644
+     },
+     "24561": {
+      "path": "digimon/history/24561.json",
+      "hash": "a0f544f19a8e",
+      "bytes": 13475
+     },
+     "24574": {
+      "path": "digimon/history/24574.json",
+      "hash": "cbe8832f2952",
+      "bytes": 6916
+     },
+     "24595": {
+      "path": "digimon/history/24595.json",
+      "hash": "a4b496467302",
+      "bytes": 2347
+     },
+     "24618": {
+      "path": "digimon/history/24618.json",
+      "hash": "3d71200c7598",
+      "bytes": 1181
+     },
+     "24619": {
+      "path": "digimon/history/24619.json",
+      "hash": "5087070722c6",
+      "bytes": 835
+     },
+     "24623": {
+      "path": "digimon/history/24623.json",
+      "hash": "a2bb4d61799c",
+      "bytes": 6255
+     },
+     "24627": {
+      "path": "digimon/history/24627.json",
+      "hash": "7633069c8e05",
+      "bytes": 2305
+     },
+     "24628": {
+      "path": "digimon/history/24628.json",
+      "hash": "24828667c7fc",
+      "bytes": 651
+     },
+     "24629": {
+      "path": "digimon/history/24629.json",
+      "hash": "5656dc6d0f90",
+      "bytes": 657
+     },
+     "24630": {
+      "path": "digimon/history/24630.json",
+      "hash": "ca7dc84325cf",
+      "bytes": 7141
+     },
+     "24631": {
+      "path": "digimon/history/24631.json",
+      "hash": "9f7faf960b35",
+      "bytes": 1622
+     },
+     "24635": {
+      "path": "digimon/history/24635.json",
+      "hash": "377ed52020c6",
+      "bytes": 7567
+     },
+     "24824": {
+      "path": "digimon/history/24824.json",
+      "hash": "e5948a991776",
+      "bytes": 2284
+     },
+     "24941": {
+      "path": "digimon/history/24941.json",
+      "hash": "7900935aded9",
+      "bytes": 1524
+     }
+    }
+   }
+  }
+ ]
+}
